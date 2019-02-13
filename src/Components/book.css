@@ -1,0 +1,29 @@
+body {
+  background-color: #E0E0E0;
+  padding: 20px;
+  margin: 0;
+}
+
+.card {
+  background-color: #202020;
+  color: #ffffff;
+  margin: 0;
+  text-align: center;
+}
+
+.title {
+  color: #ffffff;
+  text-align: center;
+}
+
+.subtitle {
+  color: #ffffff;
+}
+
+.card-image {
+  background-color:	#404040;
+}
+
+.header {
+  font-size: 2em;
+}
